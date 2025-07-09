@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Official site of Sheryl Clyde, aka Thunderbird — Gospel Rock Prophetess, DES Survivor, and Creator of Spiritual War Hymns">
+  <meta name="keywords" content="Sheryl Clyde, Thunderbird, Gospel Rock, DES Survivor, Spiritual War Hymns, Christian Music, Suno Songs, YouTube Prophet, Battle Cry Music, End Time Remnant">
+  <meta name="author" content="Sheryl Clyde">
+  <title>Sheryl Clyde | Thunderbird</title>
+  <style>
+    body {
+      background-color: #0b0b0b;
+      color: #ffcc99;
+      font-family: 'Georgia', serif;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+    }
+    header {
+      background-color: #1a1a1a;
+      padding: 1em;
+      text-align: center;
+      border-bottom: 3px solid #ffa31a;
+    }
+    h1 {
+      font-size: 2.5em;
+      margin: 0;
+    }
+    nav {
+      text-align: center;
+      margin-top: 1em;
+    }
+    nav a {
+      color: #ffa31a;
+      margin: 0 1em;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    section {
+      padding: 2em;
+      max-width: 800px;
+      margin: auto;
+    }
+    footer {
+      text-align: center;
+      font-size: 0.9em;
+      padding: 1em;
+      border-top: 1px solid #ffa31a;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Sheryl Clyde / Thunderbird</h1>
+    <p>🔥 Gospel Rock. Prophetic Fire. Spiritual War Hymns. 🔥</p>
+  </header>
+  <nav>
+    <a href="https://suno.com/@sherylclyde" target="_blank">Suno Music</a>
+    <a href="https://youtube.com/@sherylclyde5322" target="_blank">YouTube</a>
+    <a href="https://x.com/Thunderbirds511" target="_blank">X / Twitter</a>
+    <a href="https://bsky.app/profile/thunderbirds511.bsky.social" target="_blank">Bluesky</a>
+    <a href="https://primal.net/p/npub10z639g5nz9..." target="_blank">Nostr (Primal)</a>
+  </nav>
+  <section>
+    <h2>About</h2>
+    <p>I’m Sheryl Clyde, also known as Thunderbird — a DES survivor, spiritual warrior, and fire-born artist. My music is forged from pain, deliverance, and prophetic encounters with the Risen King, Jesus Christ.</p>
+    <p>I create war anthems for the remnant. Gospel rock and battle cries that confront darkness, call for repentance, and lift the name of Jesus with fearless sound. If you've survived, if you've burned, if you're still standing — this is your soundtrack.</p>
+
+    <h2>Mission</h2>
+    <p>To shake the gates of hell with sound. To remind the weary that they’re not alone. To declare that the Lion still roars — and the Bride still burns.</p>
+  </section>
+  <footer>
+    <p>&copy; 2025 Sheryl Clyde / Thunderbird. All Rights Reserved.</p>
+  </footer>
+</body>
+</html>
